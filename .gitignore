@@ -1,0 +1,38 @@
+# Python virtual environment and caches
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local test outputs and images
+test_page.png
+test_page_complex.png
+test_visual.png
+test_visual_complex.png
+test_panels.json
+test_panels_complex.json
+
+# Real comic page outputs
+flintstones_panels.json
+flintstones_panels2.json
+flintstones_visual.png
+flintstones_visual2.png
+flintstones_xy_cut.png
+my_comic_page.png
+my_comic_page_output.png
+my_comic_page_output.json
+*.json
+*.png
+*.jpg
+*.jpeg
+!README.md
